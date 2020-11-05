@@ -1,0 +1,12 @@
+D:\我的项目\Parts\PartsAdmin\Parts.Core\bin\Debug\netcoreapp3.1\Parts.Core.deps.json
+D:\我的项目\Parts\PartsAdmin\Parts.Core\bin\Debug\netcoreapp3.1\Parts.Core.dll
+D:\我的项目\Parts\PartsAdmin\Parts.Core\bin\Debug\netcoreapp3.1\Parts.Core.pdb
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.AssemblyInfoInputs.cache
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.AssemblyInfo.cs
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.csproj.CoreCompileInputs.cache
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.dll
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.pdb
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.csprojAssemblyReference.cache
+D:\我的项目\Parts\PartsAdmin\Parts.Core\bin\Debug\netcoreapp3.1\Parts.Model.dll
+D:\我的项目\Parts\PartsAdmin\Parts.Core\bin\Debug\netcoreapp3.1\Parts.Model.pdb
+D:\我的项目\Parts\PartsAdmin\Parts.Core\obj\Debug\netcoreapp3.1\Parts.Core.csproj.CopyComplete

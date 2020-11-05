@@ -1,0 +1,9 @@
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\bin\Debug\netcoreapp3.1\Helpers.WebHelper.deps.json
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\bin\Debug\netcoreapp3.1\Helpers.WebHelper.dll
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.csprojAssemblyReference.cache
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.AssemblyInfoInputs.cache
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.AssemblyInfo.cs
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\bin\Debug\netcoreapp3.1\Helpers.WebHelper.pdb
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.csproj.CoreCompileInputs.cache
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.dll
+D:\我的项目\Parts\PartsAdmin\Helpers.WebHelper\obj\Debug\netcoreapp3.1\Helpers.WebHelper.pdb

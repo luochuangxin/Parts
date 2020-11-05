@@ -1,0 +1,9 @@
+D:\我的项目\Parts\PartsAdmin\Parts.Model\bin\Debug\netstandard2.0\Parts.Model.deps.json
+D:\我的项目\Parts\PartsAdmin\Parts.Model\bin\Debug\netstandard2.0\Parts.Model.dll
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.csprojAssemblyReference.cache
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.AssemblyInfoInputs.cache
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.AssemblyInfo.cs
+D:\我的项目\Parts\PartsAdmin\Parts.Model\bin\Debug\netstandard2.0\Parts.Model.pdb
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.dll
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.pdb
+D:\我的项目\Parts\PartsAdmin\Parts.Model\obj\Debug\netstandard2.0\Parts.Model.csproj.CoreCompileInputs.cache
